@@ -256,7 +256,7 @@ void Alarm::ShowInfo() {
     auto secToAlarm = timeToAlarm % 60;
 
     lv_label_set_text_fmt(txtMessage,
-                          "Time to\nalarm:\n%2lu Days\n%2lu Hours\n%2lu Minutes\n%2lu Seconds",
+                          "Time to\nalarm:\n%2lu Days\n%2lu Hours\n%2lu Minutes\n%2lu Seconds\nfrogs",
                           daysToAlarm,
                           hrsToAlarm,
                           minToAlarm,
