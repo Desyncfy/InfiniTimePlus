@@ -1,8 +1,9 @@
-# [InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime)
+# [InfiniTimePlus](https://github.com/InfiniTimeOrg/InfiniTime)
 
-![InfiniTime logo](doc/logo/infinitime-logo-small.jpg "InfiniTime Logo")
+![InfiniTimePlus logo](doc/logo/infinitime-logo-small.jpg "InfiniTimePlus Logo")
 
-Fast open-source firmware for the [PineTime smartwatch](https://pine64.org/devices/pinetime/) with many features, written in modern C++.
+
+Welcome to InfiniTimePlus, a fork of InfiniTime. For installation instructions, please read the below document from InfiniTime. This fork was made because I wanted more features on my watch, and decided to make a fork for them.
 
 ## New to InfiniTime?
 
